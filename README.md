@@ -15,7 +15,7 @@
 
 2.工程结构
 -----
-  * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/dir.png)
+  * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/dir.jpg)
 
 
 3.behave 示例
@@ -24,9 +24,9 @@
   * 新建/Behave_pro/features
   * 新建/Behave_pro/features/steps
   * 新建/Behave_pro/features/test.feature文件
-    * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/feature.png)
+    * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/feature.jpg)
   * 新建/Behave_pro/features/steps/test.py 文件
-    * ![step](https://github.com/linlin547/Python_BDD_behave/blob/master/image/step.png)
+    * ![step](https://github.com/linlin547/Python_BDD_behave/blob/master/image/step.jpg)
 
 4.behave 执行
 -----
