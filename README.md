@@ -12,7 +12,7 @@
         * 在这里面的脚本会在每一个步骤之前，之后执行
 
     * before_scenario(context, scenario), after_scenario(context, scenario)
-        *在这里面的脚本会在每一个场景之前，之后执行
+        * 在这里面的脚本会在每一个场景之前，之后执行
 
     * before_feature(context, feature), after_feature(context, feature)
         * 在这里面的脚本会在每一个feature之前，之后执行
