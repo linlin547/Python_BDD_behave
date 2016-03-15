@@ -25,7 +25,7 @@
 
 2.工程结构
 -----
-  * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/dir.png)
+  * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/dir.jpg)
 
 
 3.behave 示例
@@ -34,15 +34,15 @@
   * 新建/Behave_pro/features
   * 新建/Behave_pro/features/steps
   * 新建/Behave_pro/features/test.feature 场景描述
-    * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/feature.png)
+    * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/feature.jpg)
   * 新建/Behave_pro/features/environment.py 前后依赖函数,类似setup初始化
-    * ![env](https://github.com/linlin547/Python_BDD_behave/blob/master/image/env.png)
+    * ![feature]()
   * 新建/Behave_pro/features/steps/test.py 测试步骤文件,对应test.feature中场景
-    * ![step](https://github.com/linlin547/Python_BDD_behave/blob/master/image/step.png)
+    * ![step](https://github.com/linlin547/Python_BDD_behave/blob/master/image/step.jpg)
 
 4.behave 执行
 -----
   * 进入Behave_pro目录,输入 behave,运行结果
-    * ![result](https://github.com/linlin547/Python_BDD_behave/blob/master/image/result.png)
+    * ![result](https://github.com/linlin547/Python_BDD_behave/blob/master/image/EECB8D88-02E8-4FDB-9A1E-9F5D0AAD586B.png)
 
   * 运行结果可以看出,执行了多个场景,当出现失败时,会展示红色字体,标记失败场景
