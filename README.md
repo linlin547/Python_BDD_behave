@@ -46,3 +46,12 @@
     * ![result](https://github.com/linlin547/Python_BDD_behave/blob/master/image/EECB8D88-02E8-4FDB-9A1E-9F5D0AAD586B.png)
 
   * 运行结果可以看出,执行了多个场景,当出现失败时,会展示红色字体,标记失败场景
+
+5.参考站点:
+-----
+  * T先生的博客
+    * ![T先生](http://www.cnblogs.com/tman/p/4115795.html)
+  * 卡农Lucas的博客
+    * ![卡农Lucas](http://www.cnblogs.com/devtesters/p/4368318.html)
+  * 官方Demo
+    * ![官方Demo](http://jenisys.github.io/behave.example/)
