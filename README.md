@@ -31,4 +31,4 @@
 4.behave 执行
 -----
   * 进入Behave_pro目录,输入 behave,运行结果
-    * ![result](https://github.com/linlin547/Python-BDD-behave/image/step.png)
+    * ![result](https://github.com/linlin547/Python_BDD_behave/blob/master/image/EECB8D88-02E8-4FDB-9A1E-9F5D0AAD586B.png)
