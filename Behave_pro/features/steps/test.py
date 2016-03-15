@@ -9,7 +9,9 @@ def have_number(context,number):
 
 @when('we calc the fib')
 def calc_fib(context):
-    context.fib_number = data_sum(context.fib_number)
+    """此处context.before_data为environment.py中的变量,
+    before_all函数在step之前运行,所以在运行step时变量已被赋值"""
+    context.fib_number = data_sum(int(context.fib_number)+context.before_data)
 
 @then('we get the fib number {number}')
 def get_number(context,number):

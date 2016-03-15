@@ -9,6 +9,6 @@ Feature:Calc Fib
 
       Examples: Some Numbers
         | number      | fib_number |
-        |   1         | 3          |
-        |   2         | 4          |
+        |   1         | 13         |
+        |   2         | 14         |
         |   10        | 12         |
