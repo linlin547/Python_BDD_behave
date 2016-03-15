@@ -14,7 +14,7 @@
     * 在一个 Step 开始或之后执行
 2.工程结构
 -----
-  * ![feature](http://www.baidu.com/img/bdlogo.gif)
+  * ![feature](https://github.com/linlin547/Python_BDD_behave/blob/master/image/dir.png)
 
 3.behave 示例
 -----
