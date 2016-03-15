@@ -3,7 +3,7 @@
 -----
   * Feature （功能）
   * Scenario （场景）
-  * Scenario Outline （场景大纲）
+  * Scenario Outline （场景大纲-即多个Scenario）
   * Given （假如）
   * When （当）
   * Then （那么）
@@ -12,6 +12,7 @@
     * 比如在一个 Feature 开始或之后执行
     * 在一个 Scenario 开始或之后执行
     * 在一个 Step 开始或之后执行
+
 2.工程结构
 -----
   * ![feature](https://github.com/linlin547/Python-BDD-behave/image/dir.png)
@@ -26,4 +27,7 @@
   * 新建/Behave_pro/features/steps/test.py 文件
     * ![step](https://github.com/linlin547/Python-BDD-behave/image/step.png)
 
-
+4.behave 执行
+-----
+  * 进入Behave_pro目录,输入 behave,运行结果
+    * ![result](https://github.com/linlin547/Python-BDD-behave/image/step.png)
