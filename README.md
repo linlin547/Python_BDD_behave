@@ -14,7 +14,7 @@
     * 在一个 Step 开始或之后执行
 2.工程结构
 -----
-  * ![feature](https://github.com/linlin547/Python-BDD-behave/image/dir.png)
+  * ![feature](https://github.com/linlin547/Python_BDD_behave/tree/master/image/dir.png)
 
 3.behave 示例
 -----
@@ -22,8 +22,8 @@
   * 新建/Behave_pro/features
   * 新建/Behave_pro/features/steps
   * 新建/Behave_pro/features/test.feature文件
-    * ![feature](https://github.com/linlin547/Python-BDD-behave/image/feature.png)
+    * ![feature](https://github.com/linlin547/Python_BDD_behave/tree/master/image/feature.png)
   * 新建/Behave_pro/features/steps/test.py 文件
-    * ![step](https://github.com/linlin547/Python-BDD-behave/image/step.png)
+    * ![step](https://github.com/linlin547/Python_BDD_behave/tree/master/image/step.png)
 
 
